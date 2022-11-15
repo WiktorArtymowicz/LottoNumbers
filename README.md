@@ -1,2 +1,2 @@
 #Lotto number app. 
-The app displays the numbers of the EuroJackpot game with some analysis.
+The app displays the numbers of the EuroJackpot and Lotto game with some analysis.
